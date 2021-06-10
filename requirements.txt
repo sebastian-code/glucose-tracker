@@ -1,4 +1,4 @@
-Django==1.6.10
+Django==2.2.24
 
 boto==2.21.2
 coverage==3.7
